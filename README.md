@@ -1,19 +1,18 @@
-🚀 Ignite Timer - React Application
-Aplicação para gerenciamento de tempo no estilo Pomodoro, desenvolvida com React e TypeScript, seguindo boas práticas de desenvolvimento e arquitetura moderna.
+# 🚀 Ignite Timer - React App  
 
-🛠 Stack Tecnológica
-⚛️ React (Biblioteca front-end)
+Aplicação de gerenciamento de tempo no estilo Pomodoro, desenvolvida com React e TypeScript seguindo boas práticas modernas.  
 
-🔄 TypeScript (Tipagem estática)
+## 🛠 Stack Tecnológica  
+- **⚛️ React** (Biblioteca front-end)  
+- **🟦 TypeScript** (Tipagem estática)  
+- **🎨 Styled Components** (Estilização)  
+- **🔄 Context API** (Gerenciamento de estado)  
+- **⏱ date-fns** (Manipulação de datas/tempo)  
 
-🎨 Styled Components (Estilização)
+## 💡 Principais Funcionalidades  
+✔️ Temporizador Pomodoro customizável  
+✔️ Histórico completo de ciclos  
+✔️ Contagem regressiva interativa  
+✔️ Pausa/interrupção de ciclos  
+✔️ Persistência de dados local  
 
-📦 Context API (Gerenciamento de estado)
-
-🕒 Date-fns (Manipulação de datas)
-
-💡 Principais Funcionalidades
-✔️ Ciclos de tempo personalizáveis (Pomodoro)
-✔️ Histórico de ciclos completados
-✔️ Contagem regressiva visual
-✔️ Interrupção e pausa de ciclos
