@@ -1,12 +1,18 @@
-Projeto React + TypeScript + Vite com ESLint
-Descrição
-Este projeto utiliza React, TypeScript, Vite e ESLint para garantir um desenvolvimento rápido e eficiente com boas práticas de código.
+App PIX - Flask API
+Aplicação para processamento de transações PIX desenvolvida com Flask, seguindo princípios de arquitetura limpa e boas práticas de APIs RESTful.
 
-Tecnologias
-React: Biblioteca para construção de interfaces de usuário.
+🚀 Stack Tecnológica
+Flask (Framework web)
 
-TypeScript: Superset do JavaScript com tipagem estática.
+SQLAlchemy (ORM para banco de dados)
 
-Vite: Ferramenta de build rápida para projetos modernos.
+PyJWT (Autenticação)
 
-ESLint: Ferramenta de linting para garantir a qualidade do código.
+Pydantic (Validação de dados)
+
+💡 Principais Funcionalidades
+✅ Criação de transações PIX
+
+✅ Webhooks para notificações
+
+✅ Logging detalhado
