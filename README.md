@@ -1,18 +1,19 @@
-App PIX - Flask API
-Aplicação para processamento de transações PIX desenvolvida com Flask, seguindo princípios de arquitetura limpa e boas práticas de APIs RESTful.
+🚀 Ignite Timer - React Application
+Aplicação para gerenciamento de tempo no estilo Pomodoro, desenvolvida com React e TypeScript, seguindo boas práticas de desenvolvimento e arquitetura moderna.
 
-🚀 Stack Tecnológica
-Flask (Framework web)
+🛠 Stack Tecnológica
+⚛️ React (Biblioteca front-end)
 
-SQLAlchemy (ORM para banco de dados)
+🔄 TypeScript (Tipagem estática)
 
-PyJWT (Autenticação)
+🎨 Styled Components (Estilização)
 
-Pydantic (Validação de dados)
+📦 Context API (Gerenciamento de estado)
+
+🕒 Date-fns (Manipulação de datas)
 
 💡 Principais Funcionalidades
-✅ Criação de transações PIX
-
-✅ Webhooks para notificações
-
-✅ Logging detalhado
+✔️ Ciclos de tempo personalizáveis (Pomodoro)
+✔️ Histórico de ciclos completados
+✔️ Contagem regressiva visual
+✔️ Interrupção e pausa de ciclos
